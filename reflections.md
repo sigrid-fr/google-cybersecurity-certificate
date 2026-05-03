@@ -1,10 +1,10 @@
-# 💭 Reflections — Google Cybersecurity Certificate
+# Reflections — Google Cybersecurity Certificate
 
 > *A personal reflection on what I learned across all 9 courses, how it connects to my transition from QA & Test Automation Engineering into Cybersecurity, and where I want to go next.*
 
 ---
 
-## 🎯 Why I Did This Certificate
+## Why I Did This Certificate
 
 As a QA & Test Automation Engineer, I'd spent years thinking critically about software — finding edge cases, breaking systems, and documenting failures. I knew that mindset had a place in cybersecurity, but I needed a structured, recognized path to make the transition credible. The Google Cybersecurity Certificate gave me exactly that: a solid foundation covering the full security landscape, with hands-on exposure to the tools and workflows that SOC analysts use every day.
 
@@ -12,7 +12,7 @@ It wasn't just about adding a certificate to my resume. It was about building a 
 
 ---
 
-## 📚 Course-by-Course Reflections
+## Course-by-Course Reflections
 
 ### Course 1 — Foundations of Cybersecurity
 **Overall feeling:** A mix of familiar and new.
@@ -97,7 +97,7 @@ What surprised me most was how much more strategic my job search became after th
 
 ---
 
-## 🌟 Biggest Takeaway from the Full Certificate
+## Biggest Takeaway from the Full Certificate
 
 If I had to pick one thing the Google Cybersecurity Certificate gave me, it's this: **a complete mental model of how security works as a system.**
 
@@ -105,13 +105,13 @@ Each course added a layer — foundations, risk, networks, tools, threats, detec
 
 ---
 
-## 😤 What Was Hard
+## What Was Hard
 
 The hardest part wasn't technical — it was the mindset shift in Course 2. Thinking at an organizational, risk-management level — rather than at the level of a specific system or feature — required a new way of framing problems that didn't come naturally at first. It took real effort before risk assessment started to feel intuitive rather than abstract.
 
 ---
 
-## 🔍 What I Want to Go Deeper On
+## What I Want to Go Deeper On
 
 | Topic | Why it interests me | How I plan to explore it |
 |-------|-------------------|------------------------|
@@ -122,7 +122,7 @@ The hardest part wasn't technical — it was the mindset shift in Course 2. Thin
 
 ---
 
-## 🚀 What's Next
+## What's Next
 
 | Next Step | How it builds on this certificate |
 |-----------|----------------------------------|
@@ -133,7 +133,7 @@ The hardest part wasn't technical — it was the mindset shift in Course 2. Thin
 
 ---
 
-## 💡 How This Changed How I Think
+## How This Changed How I Think
 
 I now look at every system I've ever tested through a different lens. Every form field is a potential injection point. Every API endpoint is an attack surface. Every authentication flow is a target. Every log file is a story waiting to be read.
 
