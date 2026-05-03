@@ -102,7 +102,7 @@ google-cybersecurity-certificate/
 
 ---
 
-## 🏅 Certificate
+## Certificate
 
 > 📎 [View certificate on Coursera](https://www.coursera.org/account/accomplishments/professional-cert/UJD399RH8ZHP) 
 
