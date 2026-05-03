@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Why I Did This Certificate
+## Why I Did This Certificate
 
 As a **QA & Test Automation Engineer transitioning into cybersecurity**, I needed a structured, recognized foundation that covered both the theory and the tools used in real security operations. The Google Cybersecurity Certificate delivered exactly that — with hands-on work in Python, Linux, SQL, and SIEM tools like Splunk and Chronicle.
 
@@ -16,7 +16,7 @@ This was also my first formal exposure to the **SOC analyst workflow**: alert tr
 
 ---
 
-## 🗺️ Certificate Overview
+## Certificate Overview
 
 The program is made up of 9 courses, designed to be completed in sequence:
 
@@ -34,7 +34,7 @@ The program is made up of 9 courses, designed to be completed in sequence:
 
 ---
 
-## 🛠️ Tools & Technologies Covered
+## Tools & Technologies Covered
 
 | Tool / Technology | Purpose |
 |------------------|---------|
@@ -49,7 +49,7 @@ The program is made up of 9 courses, designed to be completed in sequence:
 
 ---
 
-## 🧠 Key Skills Gained
+## Key Skills Gained
 
 - **Threat identification** — recognizing attack types, TTPs, and indicators of compromise (IOCs)
 - **Risk management** — applying NIST RMF to assess and treat organizational risk
@@ -64,7 +64,7 @@ The program is made up of 9 courses, designed to be completed in sequence:
 
 ---
 
-## 🔗 My QA → SOC Connection
+## My QA → SOC Connection
 
 The Google certificate made the QA → SOC transition very concrete for me:
 
@@ -81,7 +81,7 @@ The Google certificate made the QA → SOC transition very concrete for me:
 
 ---
 
-## 📁 What's in This Folder
+## What's in This Folder
 
 ```
 google-cybersecurity-certificate/
@@ -92,7 +92,7 @@ google-cybersecurity-certificate/
 
 ---
 
-## 💡 My Takeaways
+## My Takeaways
 
 **What surprised me most:** How much my QA experience accelerated my learning here. Writing a well-structured incident report felt almost identical to writing a good bug report — same sections, same logic, same attention to detail.
 
